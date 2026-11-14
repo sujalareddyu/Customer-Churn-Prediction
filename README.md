@@ -1,2 +1,2 @@
 # -Customer-Churn-Prediction
-Customer churn prediction using Python and Machine Learning
+Machine learning project to predict customer churn using Logistic Regression and Random Forest.
